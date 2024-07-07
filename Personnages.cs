@@ -1,3 +1,5 @@
+using System.Dynamic;
+
 namespace trainingC
 {
        public class Personnages(string pseudo)
@@ -7,13 +9,20 @@ namespace trainingC
             public int degats=2;
             public int pv=10;
 
+            public string type = ""; 
 
-            /**public string nom
-            {
-                get => pseudo;
-                set => pseudo = value;
-            }*/
+
+        /**public string nom
+        {
+            get => pseudo;
+        }*/
+        public int prendreDegats(int degat) => pv -= degat;
+        
+        public string chgtType(string ntype) => type = ntype;
     }
+
+    
+
 
     
 
