@@ -1,0 +1,15 @@
+C:\Users\lilia\OneDrive\Documents\trainingC\trainingC\bin\Debug\net8.0\trainingC.exe
+C:\Users\lilia\OneDrive\Documents\trainingC\trainingC\bin\Debug\net8.0\trainingC.deps.json
+C:\Users\lilia\OneDrive\Documents\trainingC\trainingC\bin\Debug\net8.0\trainingC.runtimeconfig.json
+C:\Users\lilia\OneDrive\Documents\trainingC\trainingC\bin\Debug\net8.0\trainingC.dll
+C:\Users\lilia\OneDrive\Documents\trainingC\trainingC\bin\Debug\net8.0\trainingC.pdb
+C:\Users\lilia\OneDrive\Documents\trainingC\trainingC\obj\Debug\net8.0\trainingC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilia\OneDrive\Documents\trainingC\trainingC\obj\Debug\net8.0\trainingC.AssemblyInfoInputs.cache
+C:\Users\lilia\OneDrive\Documents\trainingC\trainingC\obj\Debug\net8.0\trainingC.AssemblyInfo.cs
+C:\Users\lilia\OneDrive\Documents\trainingC\trainingC\obj\Debug\net8.0\trainingC.csproj.CoreCompileInputs.cache
+C:\Users\lilia\OneDrive\Documents\trainingC\trainingC\obj\Debug\net8.0\trainingC.sourcelink.json
+C:\Users\lilia\OneDrive\Documents\trainingC\trainingC\obj\Debug\net8.0\trainingC.dll
+C:\Users\lilia\OneDrive\Documents\trainingC\trainingC\obj\Debug\net8.0\refint\trainingC.dll
+C:\Users\lilia\OneDrive\Documents\trainingC\trainingC\obj\Debug\net8.0\trainingC.pdb
+C:\Users\lilia\OneDrive\Documents\trainingC\trainingC\obj\Debug\net8.0\trainingC.genruntimeconfig.cache
+C:\Users\lilia\OneDrive\Documents\trainingC\trainingC\obj\Debug\net8.0\ref\trainingC.dll
